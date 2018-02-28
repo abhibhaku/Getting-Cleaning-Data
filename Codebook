@@ -1,10 +1,9 @@
-This code book clarifies on the various data fields in clear_data.txt
+This code book clarifies on the various data fields in tidydata.txt
 
 
 Identifiers
 subject - test subject ID
 activity - activity type done when the respective measurements taken
-
 
 Measurement Columns
 tBodyAcc-mean()-X
@@ -80,6 +79,3 @@ WALKING_DOWNSTAIRS - person walking down a staircase during the test
 SITTING - person sitting during the test
 STANDING - person standing during the test
 LAYING - person lay down during the test
-
-
-
